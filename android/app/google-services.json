@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "491725998634",
+    "firebase_url": "https://digital-card-f3b36.firebaseio.com",
+    "project_id": "digital-card-f3b36",
+    "storage_bucket": "digital-card-f3b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491725998634:android:6c9430950c123fa5419153",
+        "android_client_info": {
+          "package_name": "com.onnuva.digitalcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491725998634-16k0fer43nbd3m84j5t4ra5u5thhb28j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onnuva.digitalcard",
+            "certificate_hash": "532229477fed3f8b374f6c1706038af3e0679c5c"
+          }
+        },
+        {
+          "client_id": "491725998634-t82codb1kup1fu494nvnuqvgb5av5msm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7hOQ3TK9Xyt26w_nCU6sEf4SUWFepqjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491725998634-t82codb1kup1fu494nvnuqvgb5av5msm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
